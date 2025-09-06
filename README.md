@@ -24,3 +24,4 @@ An interactive Power BI dashboard designed to analyze and visualize Shopify sale
 
 
 📊Screenshot
+https://github.com/girishgangadharan90-BA/Shopify-dashboard/blob/main/S%20Dashboard.jpg
